@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
 
-TOKEN = "YOUR_BOT_TOKEN"  # اینجا توکن رباتتو بذار
+TOKEN = "7514451714:AAH5Z1arcJEJ73jrnA5mN-NDyRVVMhN12ck"  # اینجا توکن رباتتو بذار
 
 async def get_mp3_link(url):
     chrome_options = Options()
